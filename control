@@ -1,0 +1,9 @@
+Package: com.dvntm.lsquickactions
+Name: LSQuickActions
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables quick action buttons on the lock screen
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
